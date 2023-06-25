@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="10dp"
+    tools:context=".MainActivity2">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:textSize="27sp"
+        android:textAlignment="center"
+        android:paddingTop="5dp"
+        android:layout_marginRight="126dp"
+        android:layout_marginTop="4dp"
+        android:text="BANGALORE INSTITUTE OF TECHNOLOGY"/>
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="118dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        app:srcCompat="@drawable/hicobeli"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="#f567"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="124dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Shivani"
+        android:textSize="25dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="135dp"
+        android:textColor="#b00020"
+        android:textAlignment="center"/>
+
+
+</RelativeLayout>

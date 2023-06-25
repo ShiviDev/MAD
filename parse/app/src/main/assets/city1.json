@@ -1,0 +1,17 @@
+[
+
+  {
+    "name": "Mysore",
+    "lat": "96.95",
+    "long": "76.63",
+    "temp": "22",
+    "humidity": "90%"
+  },
+  {
+    "name": "Bangalore",
+    "lat": "96.97",
+    "long": "76.76",
+    "temp": "20",
+    "humidity": "80%"
+  }
+]
